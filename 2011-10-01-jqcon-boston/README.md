@@ -22,7 +22,7 @@ $('#dialog').dialog({
 
 Creating your own widgets is easy.  Using the jQuery.widget method, you
 simply give your widget a name and a definition, and the widget factory does
-a bunch of work behind your scenes, like adding your widget to the jQuery
+a bunch of work behind the scenes, like adding your widget to the jQuery
 prototype and caching your element at `this.element`.
 
 ```javascript
