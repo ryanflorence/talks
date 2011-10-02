@@ -186,7 +186,7 @@ optsEl.opts({foo: 'baz'});
 optsEl.opts('option', 'foo', 'quux');
 // call opts again to get _init to run
 optsEl.opts();
-
+```
 
 You can use the options in any of your widget prototype methods.
 
