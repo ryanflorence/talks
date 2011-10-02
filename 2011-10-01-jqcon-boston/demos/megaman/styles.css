@@ -1,0 +1,19 @@
+.megaman {
+  background: url(img/big1.gif) center top;
+  height: 104px;
+  width: 114px;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.run-right-1  { background-position:  -873px -260px; }
+.run-right-2  { background-position:  -977px -260px; }
+.run-right-3  { background-position: -1095px -260px; }
+.run-right-4  { background-position: -1218px -260px; }
+.run-right-5  { background-position:  -759px -365px; }
+.run-right-6  { background-position:  -856px -365px; }
+.run-right-7  { background-position:  -946px -365px; }
+.run-right-8  { background-position: -1051px -370px; }
+.run-right-9  { background-position: -1164px -365px; }
+.run-right-10 { background-position: -1256px -365px; }
+
