@@ -327,6 +327,17 @@ jQuery.widget( 'rf.cycleClass' , {
 });
 ```
 
+Usage:
+
+```javascript
+$('#megaman').cycleClass({
+  className: 'run-right-',
+  frames: 10,
+  duration: 1000
+});
+```
+
+
 ## jQuery Slideshow
 
 * [Github](https://rpflorence/jquery-rf-slideshow)
